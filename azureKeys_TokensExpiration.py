@@ -2,7 +2,7 @@ import requests
 from datetime import date, timedelta, datetime
 import sys
 
-authenticationCode = 'AzurePATCodeHere'
+authenticationCode = 'AzurePATHere'
 #authenticationCode = str(sys.argv[1]) #Enable this option if you want to pass the PATCode as a parameter
 today = date.today()
 output = ''
